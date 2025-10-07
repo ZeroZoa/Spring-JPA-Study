@@ -79,6 +79,8 @@ save(S);       // 엔티티 저장 및 병합
 delete(T);     // 엔티티 삭제
 findById(ID);  // ID로 엔티티 조회
 findAll();     // 모든 엔티티 조회
+```
+
 # JPA
 
 - Chapter 1
